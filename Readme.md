@@ -1,4 +1,4 @@
-<em> #Calculadoras Financieras </em>
+# Calculadoras Financieras
 
 
 En esta primera versión las herramientas son las siguientes:
@@ -13,7 +13,7 @@ En esta primera versión las herramientas son las siguientes:
 
 Para correr el script tienen que tener instalado PySimpleGui y datetime
 
-Seguime en twitter: 
+## Seguime en twitter: 
 
 
 [![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png)](https://twitter.com/MervalRaider)
